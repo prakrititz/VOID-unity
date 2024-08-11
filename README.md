@@ -1,6 +1,6 @@
 # Void
 
-![Void Game Logo](screenshots/img1.png)
+![Void Game Logo](img1.jpg)
 
 ## Top 10 Finalist at IIT Dhanbad Game Dev Hackathon
 
