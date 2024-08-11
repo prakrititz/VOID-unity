@@ -65,6 +65,3 @@ The team, with no prior Unity experience, learned fundamental concepts from YouT
 - YouTube channels: Codemonkey, Brackeys, and KetraGames for educational content
 - "Limbo" for inspiration
 
-## License
-
-[Include your license information here]
