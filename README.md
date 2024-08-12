@@ -49,15 +49,15 @@ The team, with no prior Unity experience, learned fundamental concepts from YouT
 
 ## Installation
 
-[Provide instructions on how to install and run the game]
+Download the zip file and play!!!
 
-## Screenshots
-
-[Include a few screenshots of your game here]
 
 ## Team
 
-[List your team members and their roles]
+
+[Unnath Chittimala(player design)][https://github.com/AspiringPianist]
+[Ramya Prasania(game mechanics)][https://github.com/RAMYA-PARSANIA]
+[Prakrititz Borah(graphics, shaders, map design][https://github.com/SweetBunny123]
 
 ## Acknowledgments
 
