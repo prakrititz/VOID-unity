@@ -55,8 +55,8 @@ Download the zip file and play!!!
 ## Team
 
 
-[Unnath Chittimala(player design)][https://github.com/AspiringPianist]
-[Ramya Prasania(game mechanics)][https://github.com/RAMYA-PARSANIA]
+[Unnath Chittimala(player design)][https://github.com/AspiringPianist]<br>
+[Ramya Prasania(game mechanics)][https://github.com/RAMYA-PARSANIA]<br>
 [Prakrititz Borah(graphics, shaders, map design][https://github.com/SweetBunny123]
 
 ## Acknowledgments
