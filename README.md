@@ -1,11 +1,6 @@
 # Void
 
 ![Void Game Logo](img1.jpg)
-
-## Top 10 Finalist at IIT Dhanbad Game Dev Hackathon
-
-"Void" is an immersive Unity game developed in just 6 days by a team of three novice developers. Despite the challenges of remote collaboration and tight deadlines, the game secured a top 10 position among over 200 competing teams at the IIT Dhanbad Game Dev Hackathon.
-
 ## Overview
 
 "Void" combines high-quality graphics with innovative game mechanics to create an engaging and visually stunning experience. Inspired by the atmospheric style of "Limbo," the game pushes the boundaries of what can be achieved within a short development period.
